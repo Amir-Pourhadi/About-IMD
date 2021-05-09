@@ -1,0 +1,77 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+nav {
+	max-height: 1.8rem;
+	padding: 1.2rem 1.1rem;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+nav a {
+	font-size: 1.5rem;
+	text-decoration-line: none;
+}
+
+.container {
+	height: 95vh;
+	margin: 0 5rem;
+}
+
+.desc {
+	margin: 5rem 0;
+	border: 3px dashed #333;
+	border-radius: 10px;
+	padding: 1.5rem;
+}
+
+.cards {
+	width: 100%;
+	min-height: 20rem;
+	padding: 1% 0;
+	display: flex;
+	justify-content: space-around;
+}
+
+.card {
+	width: 10rem;
+	height: 17rem;
+	background-color: #999;
+	padding: 2rem 3.4rem;
+	align-items: center;
+	text-align: center;
+	border-radius: 10px;
+}
+
+.rules-img {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 17px;
+}
+
+.desc-img {
+	width: 125px;
+	height: 125px;
+}
+
+.goals-img {
+	width: 125px;
+	height: 125px;
+}
+
+.card h2 {
+	font-size: 1.8rem;
+	font-weight: 300;
+	margin-bottom: 1.5rem;
+}
+
+.card a {
+	color: black;
+	font-size: 1.5rem;
+	border: 1ps solid #000;
+	background-color: #e63946;
+	padding: 0.5rem 1rem;
+	border-radius: 15px;
+}
