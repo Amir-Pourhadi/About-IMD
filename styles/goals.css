@@ -1,63 +1,63 @@
 body {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 nav {
-	max-height: 1.8rem;
-	padding: 1.2rem 1.1rem;
-	display: flex;
-	justify-content: space-evenly;
+  max-height: 1.8rem;
+  padding: 1.2rem 1.1rem;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 nav a {
-	font-size: 1.5rem;
-	text-decoration-line: none;
+  font-size: 1.5rem;
+  text-decoration-line: none;
 }
 
 .cards {
-	width: 100%;
-	min-height: 20rem;
-	display: flex;
-	justify-content: space-around;
-	flex-wrap: wrap;
+  width: 100%;
+  min-height: 20rem;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 .card {
-	width: 7rem;
-	height: 13rem;
-	background-color: #999;
-	padding: 2rem 3.4rem;
-	align-items: center;
-	text-align: center;
-	border-radius: 10px;
+  width: 7rem;
+  height: 13rem;
+  background-color: #999;
+  padding: 2rem 3.4rem;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
 }
 
 .goals-img {
-	width: 125px;
-	height: 125px;
+  width: 125px;
+  height: 125px;
 }
 
 .all {
-	margin-top: 2rem;
-	border: 3px dashed #222;
-	align-items: center;
-	margin: 0 5rem;
-	padding: 1.5rem;
-	border-radius: 10px;
+  margin-top: 2rem;
+  border: 3px dashed #222;
+  align-items: center;
+  margin: 0 5rem;
+  padding: 1.5rem;
+  border-radius: 10px;
 }
 
 .center-title {
-	margin-left: 1.1rem;
-	margin-bottom: 1%;
+  margin-left: 1.1rem;
+  margin-bottom: 1%;
 }
 
 h1 {
-	font-weight: 300;
-	font-family: "Courier New", Courier, monospace;
+  font-weight: 300;
+  font-family: "Courier New", Courier, monospace;
 }
 
 li {
-	font-size: 1.2rem;
-	line-height: 1.7rem;
+  font-size: 1.2rem;
+  line-height: 1.7rem;
 }

@@ -1,84 +1,84 @@
 body {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 nav {
-	max-height: 1.8rem;
-	padding: 1.2rem 1.1rem;
-	display: flex;
-	justify-content: space-evenly;
+  max-height: 1.8rem;
+  padding: 1.2rem 1.1rem;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 nav a {
-	font-size: 1.5rem;
-	text-decoration-line: none;
+  font-size: 1.5rem;
+  text-decoration-line: none;
 }
 
 nav .description {
-	color: #999;
+  color: #999;
 }
 
 nav .goals {
-	color: #999;
+  color: #999;
 }
 
 nav .rules {
-	border-bottom: 1px solid #555;
+  border-bottom: 1px solid #555;
 }
 
 .cards {
-	width: 100%;
-	min-height: 10rem;
-	display: flex;
-	justify-content: space-around;
-	flex-wrap: wrap;
+  width: 100%;
+  min-height: 10rem;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 .card {
-	width: 5rem;
-	height: 10rem;
-	background-color: #999;
-	padding: 2rem 3.4rem;
-	align-items: center;
-	text-align: center;
-	border-radius: 10px;
-	margin-top: 1.5rem;
+  width: 5rem;
+  height: 10rem;
+  background-color: #999;
+  padding: 2rem 3.4rem;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+  margin-top: 1.5rem;
 }
 
 .rules-img {
-	width: 50px;
-	height: 50px;
-	margin-bottom: 17px;
+  width: 50px;
+  height: 50px;
+  margin-bottom: 17px;
 }
 
 .todo {
-	display: flex;
-	margin: 1.5rem 5rem;
-	border: 3px dashed #555;
-	border-radius: 10px;
-	padding: 2rem;
+  display: flex;
+  margin: 1.5rem 5rem;
+  border: 3px dashed #555;
+  border-radius: 10px;
+  padding: 2rem;
 }
 
 .rightPart {
-	padding: 7px 7px;
+  padding: 7px 7px;
 }
 
 .rightPart li {
-	font-size: larger;
+  font-size: larger;
 }
 
 .rightPart li::marker {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 .leftPart {
-	border-right: 3px solid #333;
-	padding: 1rem;
-	padding-top: 6rem;
+  border-right: 3px solid #333;
+  padding: 1rem;
+  padding-top: 6rem;
 }
 
 .leftPart span {
-	font-size: 1.5rem;
-	margin-top: 5rem;
+  font-size: 1.5rem;
+  margin-top: 5rem;
 }
