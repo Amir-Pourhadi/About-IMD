@@ -13,3 +13,4 @@
 # About IMD
 
 My very first HTML & CSS project, using flexbox and linked pages.
+Describing IND Company with a simple website.
